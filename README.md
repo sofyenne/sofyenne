@@ -6,4 +6,5 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/sofien-haj-chedli-0b2089126/
 
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sofyenne&show_icons=true&theme=radical)
 
